@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="chia">/</string>
+    <string name="ketqua">Kết quả</string>
+    <string name="sothu1">Số thứ 1</string>
+    <string name="sothu2">Số thứ 2</string>
+</resources>
